@@ -1,0 +1,7 @@
+{
+  "name" : "My mailer api - development",
+  "mail" : {
+    "host" : "localhost",
+    "port" : "1025"
+  }
+}
